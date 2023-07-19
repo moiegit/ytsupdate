@@ -1,5 +1,5 @@
 # ytsupdate
-End of the week reminder of free movies to watch. 
+End of the week reminder of free movies your can watch. 
 
 PLEASE DO NOT SUPPORT PIRACY.
 
